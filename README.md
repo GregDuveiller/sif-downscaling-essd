@@ -20,5 +20,5 @@ https://lpdaac.usgs.gov/
 The study also required data from OCO-2 and TROPOMI that had to be aggregated in a particular format and are available in this Zenodo repository: [DOI: 10.5281/zenodo.3753024].
 
 ## Versioning
-This repository is available on GitHub at https://github.com/GregDuveiller/sif-downscaling-essd/. All versions of this repository, including the last release, are archived on Zenodo: [...].
+This repository is available on GitHub at https://github.com/GregDuveiller/sif-downscaling-essd/. All versions of this repository, including the last release, are archived on Zenodo: [DOI: 10.5281/zenodo.3753521].
 
